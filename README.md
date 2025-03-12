@@ -13,5 +13,14 @@
         "Zutano": 50,
     "Perantano": 75
         }
-        
+
+    ```
+
+
+- La funcion imprimirListaInversa hace que de los nombres del princio 
+
+     ```Python
+     def imprimirListaInversa(lista):
+         return lista[::-1]
+    print(imprimirListaInversa(["Mengano", "Fulano", "Zutano", "Perantano"]))
     ```
